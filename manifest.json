@@ -3,7 +3,7 @@
   "description": "ทำให้เว็บที่เป็นขาวดำกลับมามีสี เหมาะกับผู้ที่ต้องการความชัดเจนของสีเพื่อแยกแยะรายละเอียด",
   "manifest_version": 2,
   "name": "[Earthchie] ทำให้เว็บกลับมามีสี",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage_url": "https://fb.com/earthchie/",
   "icons": {
     "48": "icon.png"

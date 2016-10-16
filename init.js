@@ -5,4 +5,4 @@ if(!css){
     document.head.appendChild(css);
 }
 css.type = "text/css";
-css.innerHTML = "html * { filter: initial !important; }";
+css.innerHTML = "html *,* { filter: initial !important; }";
